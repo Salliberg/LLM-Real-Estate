@@ -2,9 +2,9 @@ Agreement of Purchase and Sale
 Form 100
 for use in the Province of Ontario
 This Agreement of Purchase and Sale dated this ....................... day of .................................................................................................... 20............
-BUYER: ......................................................................................................................................................................., agrees to purchase from
+BUYER: SALLY_BUYER_NAME, agrees to purchase from
 (Full legal names of all Buyers)
-SELLER: ......................................................................................................................................................................................, the following
+SELLER: SALLY_SELLER_NAME, the following
 (Full legal names of all Sellers)
 REAL PROPERTY:
 Address 1 Main St, New York, New York
@@ -14,8 +14,7 @@ and having a frontage of .......................................................
 and legally described as ....................................................................................................................................................................................
 ................................................................................................................................................................................................. (the “property”)
 (Legal description of land including easements not described elsewhere)
-PURCHASE PRICE: Dollars (CDN$) ..........................................
-............................................................................................................................................................................................................. Dollars
+PURCHASE PRICE: SALLY_PRICE  Dollars
 DEPOSIT: Buyer submits ...................................................................................................................................................................................
 (Herewith/Upon Acceptance/as otherwise described in this Agreement)
 ..................................................................................................................................................... Dollars (CDN$) ..........................................
@@ -30,7 +29,7 @@ SCHEDULE(S) A...................................................................
 (Seller/Buyer) (a.m./p.m.)
 day of ................................................................... 20 ........., after which time, if not accepted, this offer shall be null and void and the deposit
 shall be returned to the Buyer in full without interest.
-2. COMPLETION DATE: This Agreement shall be completed by no later than 6:00 p.m. on the 1st day of January 2022. Upon completion, vacant possession of the property shall be given to the Buyer unless otherwise provided for in this Agreement.
+2. COMPLETION DATE: This Agreement shall be completed by no later than 6:00 p.m. on the SALLY_CLOSING_DATE. Upon completion, vacant possession of the property shall be given to the Buyer unless otherwise provided for in this Agreement.
 INITIALS OF BUYER(S): INITIALS OF SELLER(S):
 Form 100 Revised 2020 Page 2 of 6
 The trademarks REALTOR®, REALTORS®, MLS®, Multiple Listing Services® and associated logos are owned or controlled by
