@@ -1,12 +1,12 @@
 REAL ESTATE SALES CONTRACT
 
-THIS REAL ESTATE SALES CONTRACT (this “Contract”) is made effective as of the later of the date signed by Buyer or the date signed by Seller (the “Effective Date”) between Estes Express Lines, a Virginia Corporation (“Buyer”), and                     , a                      corporation (“Seller”).
+THIS REAL ESTATE SALES CONTRACT (this “Contract”) is made effective as of the later of the date signed by Buyer or the date signed by Seller (the “Effective Date”) between SALLY_BUYER_NAME, (“Buyer”), and SALLY_SELLER_NAME (“Seller”).
 
 WITNESSETH
 
-In consideration of Ten Dollars ($10.00) and the mutual covenants and agreements herein contained, the receipt and sufficiency of which are hereby acknowledged, Buyer hereby agrees to buy, and Seller hereby agrees to sell, upon the following terms and conditions, the real estate, including all improvements and fixtures thereon, located for street numbering purposes at                     , and further described on Exhibit “A” attached hereto (collectively, the “Property”):
+In consideration of $10 and the mutual covenants and agreements herein contained, the receipt and sufficiency of which are hereby acknowledged, Buyer hereby agrees to buy, and Seller hereby agrees to sell, upon the following terms and conditions, the real estate, including all improvements and fixtures thereon, located for street numbering purposes at                     , and further described on Exhibit “A” attached hereto (collectively, the “Property”):
 
-1. PURCHASE PRICE. The purchase price for the Property shall be                      DOLLARS ($            ) (the “Purchase Price”), payable at the time of Closing (as defined in Section 8) by applying the Deposit (as defined in Section 2) and Buyer paying the balance by cash, cashier’s check, certified check or wire transfer of funds, in each case, paid to the order of Seller.
+1. PURCHASE PRICE. The purchase price for the Property shall be SALLY_PRICE (the “Purchase Price”), payable at the time of Closing (as defined in Section 8) by applying the Deposit (as defined in Section 2) and Buyer paying the balance by cash, cashier’s check, certified check or wire transfer of funds, in each case, paid to the order of Seller.
 
 2. DEPOSIT. Buyer shall deposit with the Escrow Agent (as defined in Section 9) within ten (10) days after the Effective Date, the sum of                     DOLLARS ($            ) (the “Deposit”), which shall be held by the Escrow Agent and shall be applied against the Purchase Price at the Closing.
 
